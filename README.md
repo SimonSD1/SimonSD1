@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Simon 👋
 
-<!--
-**SimonSD1/SimonSD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a **Master's in Cryptography, High Performance Computing, and Algorithms** at **Sorbonne University**, following a **dual degree in Mathematics and Computer Science**. My focus is on developing secure and efficient systems through advanced algorithms and cryptographic techniques.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: Master's in Cryptography, High Performance Computing, and Algorithms, Sorbonne University  
+  Dual Degree in Mathematics and Computer Science
+- 📚 **Core Areas of Expertise**: High Performance Computing, Algorithms, Parallel Computing, Data Structures, Math
+
+## Technical Skills
+
+- **Programming Languages**: Java, C, Python, Octave
+- **High Performance Computing**: MPI, OpenMP
+- **Mathematics**: Linear Algebra, Analysis, Probability, Numerical Methods
+- **Tools & Technologies**: Git, SVN
+
