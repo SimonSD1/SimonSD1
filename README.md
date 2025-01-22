@@ -1,6 +1,6 @@
 # Hello, I'm Simon 👋
 
-I am currently pursuing a **Master's in Cryptography, High Performance Computing, and Algorithms** at **Sorbonne University**, following a **dual degree in Mathematics and Computer Science**. My focus is on developing secure and efficient systems through advanced algorithms and cryptographic techniques.
+I am currently pursuing a **Master's in Cryptography, High Performance Computing, and Algorithms** at **Sorbonne University**, following a **dual degree in Mathematics and Computer Science**.
 
 ## About Me
 
